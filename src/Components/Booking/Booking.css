@@ -1,0 +1,13 @@
+.booking-order{
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    justify-content: center;
+    align-items: center;
+    grid-column-gap: 20px;
+}
+.single-details{
+    border: 1px solid rgba(128, 128, 128, 0.322);
+    padding: 10px;
+    margin:10px;
+border-radius: 5px;
+}

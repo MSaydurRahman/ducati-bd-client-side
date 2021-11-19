@@ -1,0 +1,12 @@
+.footer{
+    background-color: black;
+    margin-top: 350px;
+    padding-top:20px;
+}
+.footer-text{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+}
+.font-awsome a{
+    text-decoration: none;
+}

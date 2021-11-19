@@ -1,0 +1,40 @@
+.saving-trip{
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 50px;
+    margin: 10px 10px;
+    display: flex;
+    column-gap: 20px;
+    justify-content: center;
+}
+.gift{
+    font-size: 58px;
+    color: rgb(128, 73, 0);
+}
+.percentage{
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 50px;
+    margin: 10px 10px;
+    display: flex;
+    column-gap: 20px;
+    justify-content: center;
+}
+.percentage i{
+    font-size: 58px;
+    color: rgb(36, 139, 235);
+}
+.percentage input{
+    height: 40px;
+    width: 200px;
+}
+.percentage input:hover{
+    border:2px solid gray;
+}
+.percentage button{
+    height: 40px;
+    background-color: rgb(0, 89, 255);
+    color: white;
+    border:1px solid gray;
+    border-radius: 2px;
+}

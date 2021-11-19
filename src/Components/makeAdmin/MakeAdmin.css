@@ -1,0 +1,9 @@
+.make-admin{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid rgba(128, 128, 128, 0.192);
+    padding: 20px;
+    border-radius: 10px;
+}

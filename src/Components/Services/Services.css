@@ -1,0 +1,6 @@
+.services{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-row-gap: 20px;
+    grid-column-gap: 20px;
+}
