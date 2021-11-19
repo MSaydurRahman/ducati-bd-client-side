@@ -1,6 +1,6 @@
 # UranBike
 ## Live Link
-This project was (react router, firebase auth, mongodb) with [UranBike](https://uranbike-99a82.web.app).
+This project was (AdminPrivateRoute, UserPrivateRoute,react router, firebase auth, mongodb) with [UranBike](https://uranbike-99a82.web.app).
 
 ## Important points
 
